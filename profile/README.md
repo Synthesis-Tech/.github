@@ -4,6 +4,8 @@ Welcome to Synthesis Tech! We're a technology organization focused on building i
 
 ## About Us
 
+**Website:** [synthesisarc.com](https://synthesisarc.com)
+
 Synthesis Tech specializes in:
 - AI/ML solutions and knowledge management systems
 - Advanced development frameworks and tools
